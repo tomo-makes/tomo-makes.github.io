@@ -22,3 +22,8 @@
 - 2018/6/9　Chainer Meetup #07 LT "てのりChainer"
 - 2018/6/21 Venture Cafe Tokyo "2018年の人工知能、データ分析 - できること、できないことのホントノトコロ
 "
+
+## competitions
+
+- 2017/1/10-3/31 SIGNATE [人工知能技術戦略会議等主催 第1回AIチャレンジコンテスト](https://signate.jp/competitions/31)
+  - 料理分類部門 アイデア賞 1位
