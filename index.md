@@ -6,6 +6,8 @@
 
 ## books
 
+![](https://lh3.googleusercontent.com/cwdulI-clahi4gUmtKortAEI23pTR-f91anYcZ2xEmrF2Oi18EaOaUyuQjzcez732U5YBpqQDDzCexKjgzVcnA)
+
 - 2018/10/8 [技術書典5 "秒速 DEEP LEARING" 頒布(予定)](https://techbookfest.org/event/tbf05/circle/30510005)
 
 ## articles
