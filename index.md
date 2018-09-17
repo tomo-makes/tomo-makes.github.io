@@ -1,6 +1,7 @@
+# portfolio - tomo-makes
 ## who?
 
-- tomo-makes
+- @tomo-makes
   - [twitter](https://twitter.com/tomo_makes)
   - Like: Analytics, Deep Learning, IoT, Music(Viking Metal, Reggaeton, Madrigals, Sanshin, Folk music all over the world)
 
