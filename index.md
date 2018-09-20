@@ -13,8 +13,9 @@
 
 ## contributions
 
-- 2018/1 [node-red-contrib-ble-heart-rate - npm](https://www.npmjs.com/package/node-red-contrib-ble-heart-rate)
-- 2017/5 keras-docs-ja v2翻訳プロジェクト
+- 2018/1 Node-RED BLE心拍モニタ情報取得ノード [node-red-contrib-ble-heart-rate - npm](https://www.npmjs.com/package/node-red-contrib-ble-heart-rate)
+- 2017/5 keras-docs-ja v2日本語訳プロジェクト [Keras Documentation](https://keras.io/ja/)
+- 2017/3 日本語字幕 [Lesson 1: Practical Deep Learning for Coders - YouTube](https://www.youtube.com/watch?v=Th_ckFbc6bI)
 - 2015/9 [RStudio - Data Wrangling Cheatsheet 日本語訳](https://github.com/rstudio/cheatsheets/raw/master/translations/japanese/data-wrangling-japanese.pdf)
 
 ## articles
