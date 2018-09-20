@@ -11,6 +11,12 @@
 
 - 2018/10/8 [技術書典5 "秒速 DEEP LEARING" 頒布(予定)](https://techbookfest.org/event/tbf05/circle/30510005)
 
+## contributions
+
+- 2018/1 [node-red-contrib-ble-heart-rate - npm](https://www.npmjs.com/package/node-red-contrib-ble-heart-rate)
+- 2017/5 keras-docs-ja v2翻訳プロジェクト
+- 2015/9 [RStudio - Data Wrangling Cheatsheet 日本語訳](https://github.com/rstudio/cheatsheets/raw/master/translations/japanese/data-wrangling-japanese.pdf)
+
 ## articles
 
 - 2018/7/19 [2018年の人工知能、データ分析 - できること、できないことのホントノトコロ｜tomo_makes｜note](https://note.mu/tomo_makes/n/na7676fa64380)
@@ -23,6 +29,7 @@
 - 2018/6/9　Chainer Meetup #07 LT "てのりChainer"
 - 2018/6/21 Venture Cafe Tokyo "2018年の人工知能、データ分析 - できること、できないことのホントノトコロ
 "
+- 2017/8 CMS夏祭り "ゼロから深層学習を学ぶ方法"
 
 ## competitions
 
